@@ -29,7 +29,9 @@
 |Zigzag project|준비중|2024.01.30 ~ ing|
 |데이콘 대출등급 판별|private 상위 10%|2024.01.15 ~ 2024.02.05|
 |Multi Campus mini project|3팀 중 1위|2023.11.15 ~ 2024.12.02|
+|동작상권 활성화 프로젝트|본선 진출|2023.08.20 ~ 2023.09.24|
 
+   <br/>
    <br/>
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeseongYang)](https://github.com/anuraghazra/github-readme-stats)
