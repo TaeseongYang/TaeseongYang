@@ -28,6 +28,7 @@
 |작업명|상세|날짜|
 |------|---|---|
 |Musinsa project|Kyonggi University project|2024.03.25 ~ 2024.06.21|
+|Dacon income level prediction|private 상위 10%|2024.04.02 ~ 2024.04.05|
 |Zigzag project|멀티캠퍼스 주관 프로젝트 최우수상|2024.01.30 ~ 2024.03.20|
 |Dacon loan grad classification|private 상위 10%|2024.01.15 ~ 2024.02.05|
 |동작 상권 활성화 프로젝트|본선 진출|2023.09.11 ~ 2023.10.06|
