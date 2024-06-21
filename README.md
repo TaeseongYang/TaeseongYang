@@ -27,7 +27,7 @@
 
 |작업명|상세|날짜|
 |------|---|---|
-|제12회 공공데이터 활용 아이디어 공모전|진행중|2024.6.17 ~ 2024.07.01|
+|제12회 공공데이터 활용 아이디어 공모전|진행중|2024.06.17 ~ 2024.07.01|
 |Musinsa project|[Kyonggi University project](https://github.com/TaeseongYang/Musinsa_project)|2024.03.25 ~ 2024.06.14|
 |Dacon income level prediction|[private 상위 10%](https://github.com/TaeseongYang/Dacon_competition)|2024.03.20 ~ 2024.04.05|
 |Zigzag project|[멀티캠퍼스 주관 프로젝트 최우수상](https://github.com/LEEDOHOON427)|2024.01.30 ~ 2024.03.20|
